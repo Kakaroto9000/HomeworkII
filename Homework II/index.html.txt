@@ -1,7 +1,10 @@
 <!DOCTYPE hmtl>
 <html>
-<body>
-<h1>Homeworl</h1>
-<p>Githubpages</p>
-</body>
+    <head>
+        <title>HomeworkIIM</title>
+    </head>
+    <body>
+        <h1>Homeworl</h1>
+        <p>Githubpages</p>
+    </body>
 </html>
