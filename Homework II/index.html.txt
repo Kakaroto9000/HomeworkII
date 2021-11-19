@@ -1,7 +1,7 @@
 <!DOCTYPE hmtl>
 <html>
     <head>
-        <title>Kakaroto9000.github.io</title>
+        <title>kakaroto9000.github.io</title>
     </head>
     <body>
         <h1>Homeworl</h1>
